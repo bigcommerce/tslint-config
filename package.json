@@ -1,0 +1,21 @@
+{
+  "name": "@bigcommerce/tslint-config",
+  "version": "0.0.0",
+  "description": "Default TSLint configuration used at BigCommerce",
+  "main": "index.json",
+  "author": "BigCommerce",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigcommerce/tslint-config.git"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^4.3.0"
+  },
+  "peerDependencies": {
+    "tslint": "^5.9.1"
+  }
+}
