@@ -1,0 +1,7 @@
+{
+    "scopes": [
+        "common",
+        "core",
+        "release"
+    ]
+}
