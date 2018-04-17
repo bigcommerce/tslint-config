@@ -154,6 +154,7 @@
         ],
         "prefer-const": true,
         "prefer-for-of": true,
+        "prefer-method-signature": true,
         "quotemark": [
             true,
             "single",
