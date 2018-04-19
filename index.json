@@ -115,6 +115,7 @@
         "no-switch-case-fall-through": false,
         "no-trailing-whitespace": true,
         "no-unnecessary-initializer": true,
+        "no-unnecessary-type-assertion": true,
         "no-unsafe-finally": true,
         "no-unused-expression": true,
         "no-unused-variable": true,
