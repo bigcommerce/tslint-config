@@ -65,6 +65,7 @@
         "interface-over-type-literal": true,
         "jsdoc-format": true,
         "label-position": true,
+        "match-default-export-name": true,
         "max-classes-per-file": [
             true,
             1
