@@ -1,6 +1,6 @@
 {
   "name": "@bigcommerce/tslint-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Default TSLint configuration used at BigCommerce",
   "main": "index.json",
   "author": "BigCommerce",
