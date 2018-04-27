@@ -7,7 +7,7 @@ This package is a configuration preset for [TSLint](https://palantir.github.io/t
 ## Install
 
 ```sh
-npm install --save @bigcommerce/tslint-config
+npm install --save-dev @bigcommerce/tslint-config
 ```
 
 
