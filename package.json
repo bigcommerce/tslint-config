@@ -17,7 +17,7 @@
     "validate-commits": "validate-commits"
   },
   "devDependencies": {
-    "@bigcommerce/validate-commits": "^2.0.1",
+    "@bigcommerce/validate-commits": "^2.0.2",
     "standard-version": "^4.3.0"
   },
   "peerDependencies": {
