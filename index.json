@@ -118,7 +118,7 @@
         "no-unnecessary-initializer": true,
         "no-unnecessary-type-assertion": true,
         "no-unsafe-finally": true,
-        "no-unused-expression": true,
+        "no-unused-expression": [true, "allow-tagged-template"],
         "no-unused-variable": true,
         "no-var-keyword": true,
         "no-var-requires": true,
