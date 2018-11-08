@@ -107,6 +107,7 @@
             true,
             "allow-declarations"
         ],
+        "no-non-null-assertion": true,
         "no-parameter-properties": false,
         "no-reference": true,
         "no-reference-import": true,
