@@ -189,7 +189,8 @@
                     "objects": "always",
                     "typeLiterals": "always"
                 },
-                "singleline": "never"
+                "singleline": "never",
+                "esSpecCompliant": true
             }
         ],
         "triple-equals": [
