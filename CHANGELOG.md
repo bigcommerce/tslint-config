@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.2"></a>
+## [3.0.2](https://github.com/bigcommerce/tslint-config/compare/v3.0.1...v3.0.2) (2019-01-20)
+
+
+### Bug Fixes
+
+* **common:** FE-33 Remove no-unused-variable since it is deprecated ([be050d2](https://github.com/bigcommerce/tslint-config/commit/be050d2))
+
+
+
 <a name="3.0.1"></a>
 ## [3.0.1](https://github.com/bigcommerce/tslint-config/compare/v3.0.0...v3.0.1) (2018-12-16)
 
