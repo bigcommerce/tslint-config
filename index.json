@@ -90,6 +90,7 @@
         "no-angle-bracket-type-assertion": true,
         "no-any": false,
         "no-arg": true,
+        "no-async-without-await": true,
         "no-bitwise": true,
         "no-conditional-assignment": true,
         "no-consecutive-blank-lines": true,
@@ -197,6 +198,9 @@
             true,
             "allow-null-check"
         ],
+        "type-literal-delimiter": {
+            "singleLine": "always"
+        },
         "typedef": false,
         "typedef-whitespace": [
             true,
@@ -236,8 +240,7 @@
             "check-type",
             "check-typecast",
             "check-type-operator",
-            "check-preblock",
-            "check-postbrace"
+            "check-preblock"
         ]
     },
     "linterOptions": {
