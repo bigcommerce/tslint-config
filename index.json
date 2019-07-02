@@ -240,8 +240,7 @@
             "check-type",
             "check-typecast",
             "check-type-operator",
-            "check-preblock",
-            "check-postbrace"
+            "check-preblock"
         ]
     }
 }
