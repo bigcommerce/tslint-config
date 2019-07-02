@@ -198,6 +198,9 @@
             true,
             "allow-null-check"
         ],
+        "type-literal-delimiter": {
+            "singleLine": "always"
+        },
         "typedef": false,
         "typedef-whitespace": [
             true,
