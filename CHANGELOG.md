@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/bigcommerce/tslint-config/compare/v3.0.2...v4.0.0) (2019-07-09)
+
+
+### Bug Fixes
+
+* **common:** CHECKOUT-4231 Remove preblock because it requires an empty spaces for empty objects ([36002c6](https://github.com/bigcommerce/tslint-config/commit/36002c6))
+* **common:** FE-40 Prevent tslint from processing json files ([f01995a](https://github.com/bigcommerce/tslint-config/commit/f01995a))
+
+
+### Features
+
+* **common:** CHECKOUT-4231 Add more whitespace checking ([3fd08ed](https://github.com/bigcommerce/tslint-config/commit/3fd08ed))
+* **common:** CHECKOUT-4231 Add no-async-without-await ([beeeff4](https://github.com/bigcommerce/tslint-config/commit/beeeff4))
+* **common:** CHECKOUT-4231 Enable no-duplicate-imports ([922b1ad](https://github.com/bigcommerce/tslint-config/commit/922b1ad))
+* **common:** CHECKOUT-4231 Enforce `;` as the type terminator ([c489bc9](https://github.com/bigcommerce/tslint-config/commit/c489bc9))
+
+
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/bigcommerce/tslint-config/compare/v3.0.1...v3.0.2) (2019-01-20)
 
