@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.1"></a>
+## [4.0.1](https://github.com/bigcommerce/tslint-config/compare/v4.0.0...v4.0.1) (2019-07-16)
+
+
+### Bug Fixes
+
+* **common:** CHECKOUT-4136 Exclude json files no matter where tslint is placed ([67f6a93](https://github.com/bigcommerce/tslint-config/commit/67f6a93))
+
+
+
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/bigcommerce/tslint-config/compare/v3.0.2...v4.0.0) (2019-07-09)
 
