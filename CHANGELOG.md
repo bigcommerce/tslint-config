@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.1.0"></a>
+# [4.1.0](https://github.com/bigcommerce/tslint-config/compare/v4.0.1...v4.1.0) (2020-03-10)
+
+
+### Features
+
+* **common:** CHP-6324 Disable object-literal-sort-keys ([#21](https://github.com/bigcommerce/tslint-config/issues/21)) ([db7dfd7](https://github.com/bigcommerce/tslint-config/commit/db7dfd7))
+
+
+
 <a name="4.0.1"></a>
 ## [4.0.1](https://github.com/bigcommerce/tslint-config/compare/v4.0.0...v4.0.1) (2019-07-16)
 
